@@ -1,2 +1,2 @@
 # ReactTargil16
-Rename each "main+targil#" to "main" in order to run
+Rename each "main_targil#" to "main" in order to run
